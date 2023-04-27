@@ -1,12 +1,8 @@
 # marvel-comics
-<h1 align="center">
-    <img alt="Marvel" title="#Marvel" src="/.github/amigo_secreto.svg" width="200px" />
-</h1>
 
 <h4 align="center">
-  Marvel Comics
+  Sorteador de Amigo Secreto
 </h4>
-
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -17,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Marvel Comics" src=".github/personagens_marvel2.png" width="100%">
+  <img alt="Sorteador Anigo Secreto" src=".github/amigo_secreto.png" width="100%">
 </p>
 
 ## : Tecnologias
@@ -25,17 +21,15 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
-- [Vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project)
-- [Styled-Components](https://styled-components.com/)
-- [React-Modal](https://reactcommunity.org/react-modal/)
+- [Jest](https://styled-components.com/](https://jestjs.io/pt-BR/))
+- [Testing Library](https://reactcommunity.org/react-modal/](https://testing-library.com/))
 
 ## 💻 Projeto
 
-O Marvel Comics é um projeto que busca os quadrinhos da api da marvel, mostra em tela ,e possui as seguintes funcionalidades:
-- filtro de pesquisa dos quadrinhos pelo nome
-- modal com informações detalhadas de cada quadrinho
-- funcionalidade de selecionar cada quadrinho
-- mostrar modal dos quadrinhos selecionados
+O projeto é um sistema Sorteador de Amigo Secreto feito em React, e foi desenvolvid com TDD. O projeto teve como objetivo:
+- Implementar testes que garantem o comportamento dos componentes
+- Utilizar o Jest para realizar asserções
+- Estudar a técnica TDD
 
 ## ⚙ Configuração
 
