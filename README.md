@@ -1,6 +1,6 @@
 # marvel-comics
 <h1 align="center">
-    <img alt="Marvel" title="#Marvel" src="/.github/Marvel_Logo.svg" width="200px" />
+    <img alt="Marvel" title="#Marvel" src="/.github/amigo_secreto.svg" width="200px" />
 </h1>
 
 <h4 align="center">
